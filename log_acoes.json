@@ -1,0 +1,20 @@
+[
+  {
+    "data_hora": "22/06/2026 11:53:02",
+    "usuario": "admin",
+    "acao": "LOGIN",
+    "detalhe": "Acesso ao sistema"
+  },
+  {
+    "data_hora": "31/08/2026 21:42:41",
+    "usuario": "admin",
+    "acao": "LOGIN",
+    "detalhe": "Acesso ao sistema"
+  },
+  {
+    "data_hora": "01/09/2026 21:23:22",
+    "usuario": "admin",
+    "acao": "LOGIN",
+    "detalhe": "Acesso ao sistema"
+  }
+]
